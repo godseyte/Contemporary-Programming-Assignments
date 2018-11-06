@@ -1,0 +1,7 @@
+D:\School\Contempo Stuff\godseyte_Assignment01\godseyte_Assignment01\bin\Debug\godseyte_Assignment01.exe.config
+D:\School\Contempo Stuff\godseyte_Assignment01\godseyte_Assignment01\bin\Debug\godseyte_Assignment01.exe
+D:\School\Contempo Stuff\godseyte_Assignment01\godseyte_Assignment01\bin\Debug\godseyte_Assignment01.pdb
+D:\School\Contempo Stuff\godseyte_Assignment01\godseyte_Assignment01\obj\Debug\godseyte_Assignment01.csproj.CoreCompileInputs.cache
+D:\School\Contempo Stuff\godseyte_Assignment01\godseyte_Assignment01\obj\Debug\godseyte_Assignment01.exe
+D:\School\Contempo Stuff\godseyte_Assignment01\godseyte_Assignment01\obj\Debug\godseyte_Assignment01.pdb
+D:\School\Contempo Stuff\godseyte_Assignment01\godseyte_Assignment01\obj\Debug\godseyte_Assignment01.csprojResolveAssemblyReference.cache
